@@ -1,0 +1,5 @@
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.ModeloDatos\bin\Debug\SimuladorServiciosBasicos.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.ModeloDatos\bin\Debug\SimuladorServiciosBasicos.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.ModeloDatos\obj\Debug\SimuladorServiciosBasicos.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.ModeloDatos\obj\Debug\SimuladorServiciosBasicos.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.ModeloDatos\obj\Debug\SimuladorServiciosBasicos.ModeloDatos.csprojResolveAssemblyReference.cache

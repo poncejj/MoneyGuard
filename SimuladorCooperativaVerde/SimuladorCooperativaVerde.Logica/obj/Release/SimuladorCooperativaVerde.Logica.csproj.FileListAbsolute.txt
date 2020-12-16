@@ -1,0 +1,11 @@
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\bin\Release\SimuladorCooperativaVerde.Logica.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\bin\Release\SimuladorCooperativaVerde.Logica.pdb
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\bin\Release\Newtonsoft.Json.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\bin\Release\SimuladorCooperativaVerde.CapaPersistencia.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\bin\Release\SimuladorCooperativaVerde.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\bin\Release\SimuladorCooperativaVerde.CapaPersistencia.pdb
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\bin\Release\SimuladorCooperativaVerde.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\bin\Release\Newtonsoft.Json.xml
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\obj\Release\SimuladorCooperativaVerde.Logica.csprojResolveAssemblyReference.cache
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\obj\Release\SimuladorCooperativaVerde.Logica.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Logica\obj\Release\SimuladorCooperativaVerde.Logica.pdb

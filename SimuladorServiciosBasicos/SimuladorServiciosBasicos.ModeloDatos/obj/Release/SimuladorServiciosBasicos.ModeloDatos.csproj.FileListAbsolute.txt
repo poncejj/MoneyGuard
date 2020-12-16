@@ -1,0 +1,4 @@
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.ModeloDatos\bin\Release\SimuladorServiciosBasicos.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.ModeloDatos\bin\Release\SimuladorServiciosBasicos.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.ModeloDatos\obj\Release\SimuladorServiciosBasicos.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.ModeloDatos\obj\Release\SimuladorServiciosBasicos.ModeloDatos.pdb

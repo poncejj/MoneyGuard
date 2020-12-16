@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/ColorFondo1"
+    android:padding="1dp">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout1Tarjeta">
+        <ImageView
+            android:id="@+id/imgTarjeta"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:adjustViewBounds="true"
+            android:layout_margin="5dp"
+            android:src="@drawable/ic_creditcard"
+            android:layout_gravity="center" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout2Tarjeta"
+        android:layout_marginRight="2.0dp">
+        <TextView
+            android:text="Mastercard"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/txtMarcaTarjeta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/ColorLetra"
+            android:layout_margin="5dp" />
+        <TextView
+            android:text="4551772007181208"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtNumeroTarjeta"
+            android:textColor="@color/ColorLetra"
+            android:layout_gravity="bottom"
+            android:layout_margin="5dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:id="@+id/linearLayout3Tarjeta"
+        android:layout_gravity="right"
+        android:layout_height="match_parent">
+        <TextView
+            android:text="Minimo a pagar USD 20.00"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/txtMinimoPago"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:textColor="@color/ColorLetra"
+            android:gravity="center_vertical"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_margin="5dp" />
+        <TextView
+            android:text="Total a pagar USD 102.34"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:id="@+id/txtTotalPago"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:textColor="@color/ColorLetra"
+            android:gravity="center_vertical"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="10dp"
+            android:layout_margin="5dp" />
+    </LinearLayout>
+</LinearLayout>

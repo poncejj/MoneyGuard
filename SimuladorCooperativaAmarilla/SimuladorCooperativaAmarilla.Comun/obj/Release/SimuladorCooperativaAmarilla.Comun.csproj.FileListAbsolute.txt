@@ -1,0 +1,5 @@
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Comun\bin\Release\SimuladorCooperativaAmarilla.Comun.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Comun\bin\Release\SimuladorCooperativaAmarilla.Comun.pdb
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Comun\obj\Release\SimuladorCooperativaAmarilla.Comun.csprojResolveAssemblyReference.cache
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Comun\obj\Release\SimuladorCooperativaAmarilla.Comun.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Comun\obj\Release\SimuladorCooperativaAmarilla.Comun.pdb

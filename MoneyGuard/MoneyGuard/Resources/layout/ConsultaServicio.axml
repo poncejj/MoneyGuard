@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/ColorFondo1">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@color/ColorCabecera"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Dark" />
+    <TextView
+        android:id="@+id/lblTipoConsultaServicio"
+        android:text="Servicio:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20dp" />
+    <Spinner
+        android:id="@+id/spiTipoConsultaServicio"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:prompt="@string/servicios_prompt"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="@drawable/spinner_border"
+        android:spinnerMode="dropdown" />
+    <TextView
+        android:id="@+id/lblSuministroConsultaServicio"
+        android:text="Número de suministro"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="20dp" />
+    <EditText
+        android:id="@+id/txtSuministroConsultaServicio"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textColor="#343d48"
+        android:ellipsize="start"
+        android:gravity="center"
+        android:hint="Ej: 5342342"
+        android:inputType="text"
+        android:background="@drawable/EditTextStyle" />
+    <Button
+        android:id="@+id/btnConsultarServicio"
+        android:text="Consultar Servicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/button"
+        style="@style/button_text" />
+</LinearLayout>

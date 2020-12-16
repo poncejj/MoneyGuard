@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyGuard.Web", "MoneyGuard.Web\MoneyGuard.Web.csproj", "{CEE973D5-3804-40BF-89DC-F3E48DA3FFFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyGuard.Web.Persistencia", "MoneyGuard.Web.Persistencia\MoneyGuard.Web.Persistencia.csproj", "{D04BBA0D-E7BC-43C7-8920-C28E47E2E116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE973D5-3804-40BF-89DC-F3E48DA3FFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE973D5-3804-40BF-89DC-F3E48DA3FFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE973D5-3804-40BF-89DC-F3E48DA3FFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE973D5-3804-40BF-89DC-F3E48DA3FFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04BBA0D-E7BC-43C7-8920-C28E47E2E116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04BBA0D-E7BC-43C7-8920-C28E47E2E116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04BBA0D-E7BC-43C7-8920-C28E47E2E116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04BBA0D-E7BC-43C7-8920-C28E47E2E116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,50 @@
+﻿@model MoneyGuard.Web.Models.clsCliente
+
+@{
+    ViewBag.Title = "AgregarCliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Agregar Cliente
+            </div>
+            @using (Html.BeginForm("EjecutarAgregarCliente", "Cooperativa", FormMethod.Post))
+            {
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <form role="form">
+                                <div class="form-group">
+                                    <label>Identificacion Cliente</label>
+                                    <input class="form-control" name="strIdentificacionCliente" placeholder="Ingrese cedula" value="@Model.identificacionCliente">
+                                </div>
+                                <div class="form-group">
+                                    <label>Nombre Cliente</label>
+                                    <input class="form-control" name="strNombreCliente" placeholder="Ingrese nombre" value="@Model.nombreCliente">
+                                </div>
+                                <div class="form-group">
+                                    <label>Apellido Cliente</label>
+                                    <input class="form-control" name="strApellidoCliente" placeholder="Ingrese apellido" value="@Model.apellidoCliente">
+                                </div>
+                                <div class="form-group">
+                                    <label>Telefono Cliente</label>
+                                    <input class="form-control" name="strTelefonoCliente" placeholder="Ingrese telefono" value="@Model.telefonoCliente">
+                                </div>
+                                <div class="form-group">
+                                    <label>Email Cliente</label>
+                                    <input class="form-control" name="strEmailCliente" placeholder="Ingrese Email" value="@Model.emailCliente">
+                                </div>
+                                <div>
+                                    <button type="submit" class="btn btn-success">Agregar</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+        }
+        </div>
+    </div>
+</div>

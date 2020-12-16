@@ -1,0 +1,7 @@
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.CapaPersistencia\bin\Release\SimuladorCooperativaVerde.CapaPersistencia.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.CapaPersistencia\bin\Release\SimuladorCooperativaVerde.CapaPersistencia.pdb
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.CapaPersistencia\bin\Release\SimuladorCooperativaVerde.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.CapaPersistencia\bin\Release\SimuladorCooperativaVerde.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.CapaPersistencia\obj\Release\SimuladorCooperativaVerde .CapaPersistencia.csprojResolveAssemblyReference.cache
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.CapaPersistencia\obj\Release\SimuladorCooperativaVerde.CapaPersistencia.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.CapaPersistencia\obj\Release\SimuladorCooperativaVerde.CapaPersistencia.pdb

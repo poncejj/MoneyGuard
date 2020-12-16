@@ -1,0 +1,44 @@
+﻿@model MoneyGuard.Web.Models.clsClienteServicios
+
+@{
+    ViewBag.Title = "ModificarCliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Agregar Cliente
+            </div>
+            @using (Html.BeginForm("EjecutarModificarCliente", "ServiciosBasicos", FormMethod.Post))
+            {
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <form role="form">
+                                <div class="form-group">
+                                    <label>Identificacion Cliente</label>
+                                    <input class="form-control" name="strIdentificacionCliente" placeholder="Ingrese cedula" value="@Model.identificacionCliente">
+                                </div>
+                                <div class="form-group">
+                                    <label>Nombre Cliente</label>
+                                    <input class="form-control" name="strNombreCliente" placeholder="Ingrese nombre" value="@Model.nombreCliente">
+                                </div>
+                                <div class="form-group">
+                                    <label>Apellido Cliente</label>
+                                    <input class="form-control" name="strApellidoCliente" placeholder="Ingrese apellido" value="@Model.apellidoCliente">
+                                </div>
+                                <div>
+                                    <button type="submit" class="btn btn-success">Agregar</button>
+                                    <input type="hidden" name="strIdCliente" placeholder="Ingrese apellido" value="@Model.idCliente">
+                                    
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

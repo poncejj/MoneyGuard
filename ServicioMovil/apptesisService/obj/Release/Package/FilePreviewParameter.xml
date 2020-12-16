@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="apptesis" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\@TFS\\Tesis\ -\ Copy\\apptesis\\apptesisService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\@TFS\\Tesis\ -\ Copy\\apptesis\\apptesisService\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="MS_TableConnectionString-Web.config Connection String" description="" value="Data Source=tcp:e3l0y6e554.database.windows.net,1433;Initial Catalog=Aplicacion_DB;User ID=prueba1@e3l0y6e554;Password=Richd@d20152015" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\@TFS\\Tesis\ -\ Copy\\apptesis\\apptesisService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MS_TableConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

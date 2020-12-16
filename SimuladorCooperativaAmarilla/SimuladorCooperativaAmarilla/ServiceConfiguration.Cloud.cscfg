@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="SimuladorCooperativaAmarilla" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="4" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="SimuladorCooperativaAmarilla.ServiceBusRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="poncejj" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCECaVZgJQ2MmiQm9aYseKq2UwDQYJKoZIhvcNAQEBBQAEggEAoRC/wwfh77+lioWwdi7zMiduQZErJIzPTaEZ+pf7tJllliwUgrpFUwGKbH0CQbLeg/SjtBdXOgTYVn+zZg333otU/sSyy2WKcetUqd0Kl9DN4KpOnMiS0YJDB5K8/ZFMpzPEtNUGy8+m2UeO32kbG6gVcg37DVIaaOoe6T8cxzsJKQS3Ru9ZCaASoUh9+5k+xgX2OFsV0jNzmzBIIoxOtvz23lXM46Gjxiw+Y/8FKXSwy+jxTBzg7bDVAglEp6HhiRN1dZLIwomSZuYoj4CJnkIzDJImVYYU36e1xcFHOUdsqGmsy+sxGoBw6mqjygGbknLY3VaBCRgUK2i45/AuFzAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECAJdTWGIpP1jgBAyztbvOjGIzHncH9cVZDXU" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2018-04-27T23:59:59.0000000-05:00" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+      <Setting name="Microsoft.ServiceBus.ConnectionString" value="Endpoint=sb://tesis1.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=DzR4AUoX6uIKg4BUTHPyxEkuREIV9MKSacwIcPnOu1o=" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="73C3E34AA1267E8227BB8BD797E66F5E67D1FBDC" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>

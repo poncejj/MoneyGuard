@@ -1,0 +1,52 @@
+﻿@model MoneyGuard.Web.Models.clsCatalogo
+
+@{
+    ViewBag.Title = "AgregarCatalogo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Agregar Catalogo
+            </div>
+            @using (Html.BeginForm("EjecutarAgregarCatalogo", "Aplicacion", FormMethod.Post))
+            {
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <form role="form">
+                                <div class="form-group">
+                                    <label>Nombre Catalogo</label>
+                                    <input class="form-control" name="nombreCatalogo" placeholder="Enter text" value="@Model.nombreCatalogo">
+                                </div>
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox" name="blCatalogoPadre" value="@Model.catalogoPadre">Catalogo Padre
+                                    </label>
+                                </div>
+                                <div class="form-group">
+                                    <label>ID Catalogo Padre</label>
+                                    @{
+                                        @Html.DropDownList("idCatalogoPadre", (IEnumerable<SelectListItem>)ViewBag.lstCatalogoPadre, "Seleccione catalogo padre", new { @class = "form-control" })
+                                    }
+                                    
+                                </div>
+
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox" name="blEstadoCatalogo" value="@Model.estadoCatalogo">Catalogo Eliminado
+                                    </label>
+                                </div>
+                                <div>
+                                    <button type="submit" class="btn btn-success">Agregar</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

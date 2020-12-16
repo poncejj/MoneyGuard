@@ -1,0 +1,69 @@
+﻿@model List<MoneyGuard.Web.Models.clsClienteServicios>
+
+@{
+    ViewBag.Title = "Cliente";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Cliente</h1>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                @using (Html.BeginForm("AgregarCliente", "ServiciosBasicos", FormMethod.Post))
+                {
+                    <button type="submit" class="btn btn-success">Agregar</button>
+                }
+            </div>
+            <div class="panel-body">
+                <div class="dataTable_wrapper">
+                    <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+                        <thead>
+                            <tr>
+                                <th>Id Cliente</th>
+                                <th>Identificacion Cliente</th>
+                                <th>Nombre Cliente</th>
+                                <th>Apellido Cliente</th>
+                                <th>Modificar</th>
+                                <th>Eliminar</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (MoneyGuard.Web.Models.clsClienteServicios objCliente in @Model)
+                            {
+                                <tr class="odd gradeX">
+                                    <td>@objCliente.idCliente</td>
+                                    <td>@objCliente.identificacionCliente</td>
+                                    <td>@objCliente.nombreCliente</td>
+                                    <td>@objCliente.apellidoCliente</td>
+                                    <td class="center">
+                                        @using (Html.BeginForm("ModificarCliente", "ServiciosBasicos", FormMethod.Post))
+                                        {
+                                            <button type="submit" class="btn btn-warning btn-circle" value="ModificarCatalogo">
+                                                <i class="fa fa-edit"></i>
+                                            </button>
+                                            <input type="hidden" id="idCliente" name="idcliente" value="@objCliente.idCliente" />
+                                        }
+                                    </td>
+                                    <td class="center">
+                                        @using (Html.BeginForm("EliminarCliente", "ServiciosBasicos", FormMethod.Post))
+                                        {
+                                            <button type="submit" class="btn btn-danger btn-circle">
+                                                <i class="fa fa-remove"></i>
+                                            </button>
+                                            <input type="hidden" id="idClienteEliminado" name="idclienteeliminado" value="@objCliente.idCliente" />
+                                        }
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

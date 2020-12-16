@@ -1,0 +1,6 @@
+C:\@TFS\Tesis\apptesis\apptesis.Persistencia\bin\Debug\apptesis.Persistencia.dll
+C:\@TFS\Tesis\apptesis\apptesis.Persistencia\bin\Debug\apptesis.Persistencia.pdb
+C:\@TFS\Tesis\apptesis\apptesis.Persistencia\obj\Debug\apptesis.Persistencia.Conexion.resources
+C:\@TFS\Tesis\apptesis\apptesis.Persistencia\obj\Debug\apptesis.Persistencia.csproj.GenerateResource.Cache
+C:\@TFS\Tesis\apptesis\apptesis.Persistencia\obj\Debug\apptesis.Persistencia.dll
+C:\@TFS\Tesis\apptesis\apptesis.Persistencia\obj\Debug\apptesis.Persistencia.pdb

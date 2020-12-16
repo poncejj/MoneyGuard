@@ -1,0 +1,11 @@
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\bin\Debug\SimuladorCooperativaAmarilla.Logica.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\bin\Debug\SimuladorCooperativaAmarilla.Logica.pdb
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\bin\Debug\SimuladorCooperativaAmarilla.CapaPersistencia.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\bin\Debug\SimuladorCooperativaAmarilla.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\bin\Debug\SimuladorCooperativaAmarilla.CapaPersistencia.pdb
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\bin\Debug\SimuladorCooperativaAmarilla.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\obj\Debug\SimuladorCooperativaAmarilla.Logica.csprojResolveAssemblyReference.cache
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\obj\Debug\SimuladorCooperativaAmarilla.Logica.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\obj\Debug\SimuladorCooperativaAmarilla.Logica.pdb
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\bin\Debug\Newtonsoft.Json.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Logica\bin\Debug\Newtonsoft.Json.xml

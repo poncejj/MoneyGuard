@@ -1,0 +1,236 @@
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\apptesisService.dll.config
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\apptesisService.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\apptesisService.pdb
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\AutoMapper.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\EntityFramework.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\EntityFramework.SqlServer.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Authentication.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Entity.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Home.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Quickstart.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Tables.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Data.Edm.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Data.OData.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Owin.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Owin.Security.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Newtonsoft.Json.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Owin.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Net.Http.Formatting.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Spatial.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Web.Http.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Web.Http.OData.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Web.Http.Owin.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Web.Http.Tracing.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Authentication.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Entity.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Home.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Quickstart.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Azure.Mobile.Server.Tables.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\EntityFramework.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\EntityFramework.SqlServer.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Web.Http.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Web.Http.OData.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Owin.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Net.Http.Formatting.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Newtonsoft.Json.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Web.Http.Owin.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Owin.Security.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\AutoMapper.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Data.Edm.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\Microsoft.Data.OData.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Spatial.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\System.Web.Http.Tracing.xml
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\de\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\es\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\fr\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\it\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ja\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ko\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ru\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hans\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hant\Microsoft.Azure.Mobile.Server.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\de\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\es\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\fr\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\it\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ja\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ko\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ru\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\de\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\es\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\fr\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\it\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ja\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ko\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ru\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\de\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\es\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\fr\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\it\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ja\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ko\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ru\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\de\System.Spatial.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\es\System.Spatial.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\fr\System.Spatial.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\it\System.Spatial.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ja\System.Spatial.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ko\System.Spatial.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\ru\System.Spatial.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\obj\Debug\apptesisService.csprojResolveAssemblyReference.cache
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\obj\Debug\apptesisService.dll
+C:\Users\Juan Jose Ponce\Desktop\Tesis\apptesis_Runtime\apptesisService\obj\Debug\apptesisService.pdb
+C:\@TFS\Tesis\apptesis\apptesisService\obj\Debug\apptesisService.Conexiones.resources
+C:\@TFS\Tesis\apptesis\apptesisService\obj\Debug\apptesisService.csproj.GenerateResource.Cache
+C:\@TFS\Tesis\apptesis\apptesisService\obj\Debug\apptesisService.dll
+C:\@TFS\Tesis\apptesis\apptesisService\obj\Debug\apptesisService.pdb
+C:\@TFS\Tesis\apptesis\apptesisService\bin\apptesisService.dll.config
+C:\@TFS\Tesis\apptesis\apptesisService\bin\apptesisService.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\apptesisService.pdb
+C:\@TFS\Tesis\apptesis\apptesisService\bin\AutoMapper.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\EntityFramework.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\EntityFramework.SqlServer.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Authentication.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Entity.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Home.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Quickstart.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Tables.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Data.Edm.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Data.OData.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Owin.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Owin.Security.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.ServiceBus.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Newtonsoft.Json.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Owin.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Net.Http.Formatting.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Spatial.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Web.Http.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Web.Http.OData.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Web.Http.Owin.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Web.Http.Tracing.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Authentication.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Entity.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Home.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Quickstart.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Azure.Mobile.Server.Tables.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\EntityFramework.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\EntityFramework.SqlServer.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.ServiceBus.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Web.Http.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Web.Http.OData.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Owin.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Net.Http.Formatting.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Newtonsoft.Json.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Web.Http.Owin.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Owin.Security.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\AutoMapper.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Data.Edm.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\Microsoft.Data.OData.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Spatial.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\System.Web.Http.Tracing.xml
+C:\@TFS\Tesis\apptesis\apptesisService\bin\de\Microsoft.Azure.Mobile.Server.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\es\Microsoft.Azure.Mobile.Server.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\fr\Microsoft.Azure.Mobile.Server.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\it\Microsoft.Azure.Mobile.Server.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ja\Microsoft.Azure.Mobile.Server.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ko\Microsoft.Azure.Mobile.Server.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ru\Microsoft.Azure.Mobile.Server.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hans\Microsoft.Azure.Mobile.Server.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hant\Microsoft.Azure.Mobile.Server.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\de\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\es\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\fr\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\it\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ja\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ko\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ru\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Authentication.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\de\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\es\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\fr\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\it\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ja\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ko\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ru\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Entity.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\de\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\es\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\fr\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\it\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ja\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ko\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ru\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hans\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hant\Microsoft.Azure.Mobile.Server.Tables.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\de\Microsoft.Data.Edm.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\es\Microsoft.Data.Edm.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\it\Microsoft.Data.Edm.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\de\Microsoft.Data.OData.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\es\Microsoft.Data.OData.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\fr\Microsoft.Data.OData.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\it\Microsoft.Data.OData.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ja\Microsoft.Data.OData.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ko\Microsoft.Data.OData.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ru\Microsoft.Data.OData.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\de\System.Spatial.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\es\System.Spatial.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\fr\System.Spatial.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\it\System.Spatial.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ja\System.Spatial.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ko\System.Spatial.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\ru\System.Spatial.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hans\System.Spatial.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\bin\zh-Hant\System.Spatial.resources.dll
+C:\@TFS\Tesis\apptesis\apptesisService\obj\Debug\apptesisService.csprojResolveAssemblyReference.cache

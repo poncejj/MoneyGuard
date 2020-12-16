@@ -1,0 +1,85 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">Inicio</h1>
+    </div>
+    <!-- /.col-lg-12 -->
+</div>
+<!-- /.row -->
+<div class="row">
+    <div class="col-lg-8">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <i class="fa fa-bar-chart-o fa-fw"></i> Area Chart Example
+                <div class="pull-right">
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-default btn-xs dropdown-toggle" data-toggle="dropdown">
+                            Cooperativas
+                            <span class="caret"></span>
+                        </button>
+                        <ul class="dropdown-menu pull-right" role="menu">
+                            <li>
+                                <a href="#">Todas</a>
+                            </li>
+                            <li>
+                                <a href="#">Cooperativa Verde</a>
+                            </li>
+                            <li>
+                                <a href="#">Cooperativa Amarilla</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="panel-body">
+                <div id="area-example"></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <i class="fa fa-bell fa-fw"></i> Notifications Panel
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                <div class="list-group">
+                    <a href="#" class="list-group-item">
+                        <i class="fa fa-comment fa-fw"></i> 
+                        <span class="pull-right text-muted small">
+                            <em></em>
+                        </span>
+                    </a>
+                </div>
+                <a href="#" class="btn btn-default btn-block">View All Alerts</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="@Url.Content("~/bower_components/morrisjs/morris.min.js")"></script>
+<!--Get Data for Graph-->
+<script type="text/javascript">
+    $(document).ready(function() {
+        $.get('@Url.Action("GetData","Home")', function (result) {
+
+            new Morris.Area({
+                // ID of the element in which to draw the chart.
+                element: 'area-example',
+                // Chart data records -- each entry in this array corresponds to a point on
+                // the chart.
+                data: result,
+                // The name of the data record attribute that contains x-values.
+                xkey: ['label'],
+                ykeys: ['value'],
+                labels: ['Cooperativa Verde', 'Cooperativa Amarilla'],
+                pointSize: 2,
+                hideHover: 'auto',
+                resize: true
+            });
+    });
+});
+</script>

@@ -1,0 +1,61 @@
+﻿@model MoneyGuard.Web.Models.clsSuministro
+
+@{
+    ViewBag.Title = "ModificarSuministro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Modificar Suministro
+            </div>
+            @using (Html.BeginForm("EjecutarModificarSuministro", "ServiciosBasicos", FormMethod.Post))
+            {
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <form role="form">
+                                <div class="form-group">
+                                    <label>Numero Suministro</label>
+                                    <input class="form-control" name="strNumeroSuministro" placeholder="Ingrese numero suministro" value="@Model.numeroSuministro">
+                                </div>
+                                <div class="form-group">
+                                    <label>Tipo Suministro</label>
+                                    @{
+                                        @Html.DropDownList("idServicioBasico", (IEnumerable<SelectListItem>)ViewBag.lstTipoServicios, "Seleccione servicio", new { @class = "form-control" })
+                                    }
+
+                                </div>
+                                <div class="form-group">
+                                    <label>Nombre Cliente</label>
+                                    @{
+                                        @Html.DropDownList("idCliente", (IEnumerable<SelectListItem>)ViewBag.lstClientes, "Seleccione cliente", new { @class = "form-control" })
+                                    }
+
+                                </div>
+                                <div class="form-group">
+                                    <label>Direccion</label>
+                                    <input class="form-control" name="strDescripcionDireccion" placeholder="Ingrese direccion" value="@Model.direccionSuministro">
+                                </div>
+                                <div class="form-group">
+                                    <label>Parroquia</label>
+                                    @{
+                                        @Html.DropDownList("idParroquia", (IEnumerable<SelectListItem>)ViewBag.lstParroquia, "Seleccione parroquia", new { @class = "form-control" })
+                                    }
+
+                                </div>
+                                <div>
+                                    <button type="submit" class="btn btn-success">Modificar</button>
+                                    <input type="hidden" name="idSuministro" value="@Model.idSuministro">
+                                    <input type="hidden" name="idDireccion" value="@Model.idDireccion">
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                                        }
+        </div>
+    </div>
+</div>

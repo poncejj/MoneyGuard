@@ -1,0 +1,5 @@
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.ModeloDatos\bin\Debug\SimuladorCooperativaVerde.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.ModeloDatos\bin\Debug\SimuladorCooperativaVerde.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.ModeloDatos\obj\Debug\SimuladorCooperativaVerde.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.ModeloDatos\obj\Debug\SimuladorCooperativaVerde.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.ModeloDatos\obj\Debug\SimuladorCooperativaVerde.ModeloDatos.csprojResolveAssemblyReference.cache

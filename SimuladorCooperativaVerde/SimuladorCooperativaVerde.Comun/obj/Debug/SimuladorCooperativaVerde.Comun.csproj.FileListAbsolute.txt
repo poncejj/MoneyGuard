@@ -1,0 +1,5 @@
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Comun\bin\Debug\SimuladorCooperativaVerde.Comun.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Comun\bin\Debug\SimuladorCooperativaVerde.Comun.pdb
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Comun\obj\Debug\SimuladorCooperativaVerde.Comun.csprojResolveAssemblyReference.cache
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Comun\obj\Debug\SimuladorCooperativaVerde.Comun.dll
+C:\@TFS\Tesis\SimuladorCooperativaVerde\SimuladorCooperativaVerde.Comun\obj\Debug\SimuladorCooperativaVerde.Comun.pdb

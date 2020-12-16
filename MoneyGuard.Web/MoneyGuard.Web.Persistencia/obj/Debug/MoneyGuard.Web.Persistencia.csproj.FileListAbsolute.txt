@@ -1,0 +1,7 @@
+C:\@TFS\Tesis\MoneyGuard.Web\MoneyGuard.Web.Persistencia\bin\Debug\MoneyGuard.Web.Persistencia.dll
+C:\@TFS\Tesis\MoneyGuard.Web\MoneyGuard.Web.Persistencia\bin\Debug\MoneyGuard.Web.Persistencia.pdb
+C:\@TFS\Tesis\MoneyGuard.Web\MoneyGuard.Web.Persistencia\obj\Debug\MoneyGuard.Web.Persistencia.CadenasConexion.resources
+C:\@TFS\Tesis\MoneyGuard.Web\MoneyGuard.Web.Persistencia\obj\Debug\MoneyGuard.Web.Persistencia.csproj.GenerateResource.Cache
+C:\@TFS\Tesis\MoneyGuard.Web\MoneyGuard.Web.Persistencia\obj\Debug\MoneyGuard.Web.Persistencia.dll
+C:\@TFS\Tesis\MoneyGuard.Web\MoneyGuard.Web.Persistencia\obj\Debug\MoneyGuard.Web.Persistencia.pdb
+C:\@TFS\Tesis\MoneyGuard.Web\MoneyGuard.Web.Persistencia\obj\Debug\MoneyGuard.Web.Persistencia.csprojResolveAssemblyReference.cache

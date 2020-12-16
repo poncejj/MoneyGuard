@@ -1,0 +1,59 @@
+﻿@model MoneyGuard.Web.Models.clsCooperativaUsuarioContenedor
+@{
+    ViewBag.Title = "ModificarCooperativaUsuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Modificar Cooperativa Usuario
+            </div>
+            @using (Html.BeginForm("EjecutarModificarCooperativaUsuario", "Aplicacion", FormMethod.Post))
+            {
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <form role="form">
+                                <div class="form-group">
+                                    <label>Id Cooperativa Usuario</label>
+                                    <input class="form-control" placeholder="Enter text" value="@Model.objCooperativaUsuario.idCooperativaUsuario" disabled>
+                                </div>
+                                <div class="form-group">
+                                    <label>Nombre Usuario</label>
+                                    <select class="form-control">
+                                        @foreach (var item in Model.objUsuario)
+                                        {
+                                            <option>@item.nombreUsuarioApp</option>
+                                        }
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label>Nombre Cooperativa</label>
+                                    <select class="form-control">
+                                        @foreach (var item in Model.objUsuario)
+                                        {
+                                            <option>@item.nombreUsuarioApp</option>
+                                        }
+                                    </select>
+                                </div>
+                                <div>
+                                    <button type="submit" class="btn btn-success">Modificar</button>
+                                    <input type="hidden" name="idCooperativaUsuario" value="@Model.objCooperativaUsuario.idCooperativaUsuario">
+                                </div>
+                            </form>
+
+                        </div>
+                        <!-- /.col-lg-6 (nested) -->
+                    </div>
+                    <!-- /.row (nested) -->
+                </div>
+            }
+            <!-- /.panel-body -->
+        </div>
+        <!-- /.panel -->
+    </div>
+    <!-- /.col-lg-12 -->
+</div>

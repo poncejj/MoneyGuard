@@ -1,0 +1,57 @@
+﻿@model MoneyGuard.Web.Models.clsCooperativa
+
+@{
+    ViewBag.Title = "ModificarCooeprativa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Modificar Usuario App
+            </div>
+            @using (Html.BeginForm("EjecutarModificarCooperativa", "Aplicacion", FormMethod.Post))
+            {
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <form role="form">
+                                <div class="form-group">
+                                    <label>Id Cooperativa</label>
+                                    <input class="form-control" name="idCooperativa" placeholder="Enter text" value="@Model.idCooperativa" disabled>
+                                </div>
+                                <div class="form-group">
+                                    <label>Nombre Cooperativa</label>
+                                    <input class="form-control" name="nombreCooperativa" placeholder="Enter text" value="@Model.nombreCooperativa">
+                                </div>
+                                <div class="form-group">
+                                    <label>Cola Envio Cooperativa</label>
+                                    <input class="form-control" name="nombreColaEnvio" placeholder="Enter text" value="@Model.nombreColaEnvio">
+                                </div>
+                                <div class="form-group">
+                                    <label>Cola Respuesta Cooperativa</label>
+                                    <input class="form-control" name="nombreColaRespuesta" placeholder="Enter text" value="@Model.nombreColaRespuesta">
+                                </div>
+                                <div class="form-group">
+                                    <label>Bus de Servicios</label>
+                                    <input class="form-control" name="nombreBusServicio" placeholder="Enter text" value="@Model.nombreBusServicios">
+                                </div>
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox" name="blCooperativaEliminado" value="@Model.estadoCooperativa">Usuario Eliminado
+                                    </label>
+                                </div>
+                                <div>
+                                    <button type="submit" class="btn btn-success">Modificar</button>
+                                    <input type="hidden" name="idCooperativa" value="@Model.idCooperativa">
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

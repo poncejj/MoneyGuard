@@ -1,0 +1,4 @@
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Comun\bin\Debug\SimuladorServiciosBasicos.Comun.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Comun\bin\Debug\SimuladorServiciosBasicos.Comun.pdb
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Comun\obj\Debug\SimuladorServiciosBasicos.Comun.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Comun\obj\Debug\SimuladorServiciosBasicos.Comun.pdb

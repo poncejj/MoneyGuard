@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="SimuladorCooperativaVerde" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="4" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="SimuladorCooperativaVerde.ServiceBusRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=simulador;AccountKey=$(_simulador.key_)" />
+      <Setting name="Microsoft.ServiceBus.ConnectionString" value="Endpoint=sb://tesis1.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=DzR4AUoX6uIKg4BUTHPyxEkuREIV9MKSacwIcPnOu1o=" />
+    </ConfigurationSettings>
+  </Role>
+</ServiceConfiguration>

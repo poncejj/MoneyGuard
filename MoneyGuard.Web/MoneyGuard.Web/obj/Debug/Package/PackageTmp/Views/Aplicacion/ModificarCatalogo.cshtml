@@ -1,0 +1,57 @@
+﻿@model MoneyGuard.Web.Models.clsCatalogo
+
+@{
+    ViewBag.Title = "ModificarCatalogo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Modificar Catalogo
+            </div>
+            @using (Html.BeginForm("EjecutarModificarCatalogo", "Aplicacion", FormMethod.Post))
+            {
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <form role="form">
+                                <div class="form-group">
+                                    <label>Id Catalogo</label>
+                                    <input class="form-control" name="idCatalogo" placeholder="Enter text" value="@Model.idCatalogo" disabled>
+                                </div>
+                                <div class="form-group">
+                                    <label>Nombre Catalogo</label>
+                                    <input class="form-control" name="nombreCatalogo" placeholder="Enter text" value="@Model.nombreCatalogo">
+                                </div>
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox" name="blCatalogoPadre" value="@Model.catalogoPadre">Catalogo Eliminado
+                                    </label>
+                                </div>
+                                <div class="form-group">
+                                    <label>Catalogo</label>
+                                    @{
+                                        @Html.DropDownList("idCatalogoPadre", (IEnumerable<SelectListItem>)ViewBag.lstCatalogoPadre, "Seleccione catalogo", new { @class = "form-control" })
+                                    }
+                                </div>
+                                
+                                <div class="checkbox">
+                                    <label>
+                                        <input type="checkbox" name="blEstadoCatalogo" value="@Model.estadoCatalogo">Catalogo Eliminado
+                                    </label>
+                                </div>
+                                <div>
+                                    <button type="submit" class="btn btn-success">Modificar</button>
+                                    <input type="hidden" name="idCooperativa" value="@Model.idCatalogo">
+                                </div>
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,7 @@
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.CapaPersistencia\bin\Release\SimuladorServiciosBasicos.CapaPersistencia.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.CapaPersistencia\bin\Release\SimuladorServiciosBasicos.CapaPersistencia.pdb
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.CapaPersistencia\bin\Release\SimuladorServiciosBasicos.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.CapaPersistencia\bin\Release\SimuladorServiciosBasicos.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.CapaPersistencia\obj\Release\SimuladorServiciosBasicos.CapaPersistencia.csprojResolveAssemblyReference.cache
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.CapaPersistencia\obj\Release\SimuladorServiciosBasicos.CapaPersistencia.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.CapaPersistencia\obj\Release\SimuladorServiciosBasicos.CapaPersistencia.pdb

@@ -1,0 +1,4 @@
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Comun\bin\Debug\SimuladorCooperativaAmarilla.Comun.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Comun\bin\Debug\SimuladorCooperativaAmarilla.Comun.pdb
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Comun\obj\Debug\SimuladorCooperativaAmarilla.Comun.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.Comun\obj\Debug\SimuladorCooperativaAmarilla.Comun.pdb

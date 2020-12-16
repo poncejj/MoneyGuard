@@ -1,0 +1,4 @@
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.ModeloDatos\bin\Release\SimuladorCooperativaAmarilla.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.ModeloDatos\bin\Release\SimuladorCooperativaAmarilla.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.ModeloDatos\obj\Release\SimuladorCooperativaAmarilla.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorCooperativaAmarilla\SimuladorCooperativaAmarilla.ModeloDatos\obj\Release\SimuladorCooperativaAmarilla.ModeloDatos.pdb

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v4\23.0.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v7.AppCompat\23.0.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v7.MediaRouter\23.0.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v7.RecyclerView\23.0.1\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Ads\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Analytics\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.AppIndexing\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.AppInvite\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.AppState\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Base\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Cast\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Drive\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Fitness\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Games\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Gcm\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Identity\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Location\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Maps\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Nearby\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Panorama\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Plus\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.SafetyNet\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Vision\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Wallet\26.0.0\embedded</AdditionalAndroidResourcePath>
+    <AdditionalAndroidResourcePath>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Wearable\26.0.0\embedded</AdditionalAndroidResourcePath>
+  </AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v4\23.0.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v4\23.0.1\embedded\libs\internal_impl-23.0.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v7.AppCompat\23.0.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v7.MediaRouter\23.0.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v7.MediaRouter\23.0.1\embedded\libs\internal_impl-23.0.1.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.Android.Support.v7.RecyclerView\23.0.1\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Ads\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Analytics\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.AppIndexing\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.AppInvite\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.AppState\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Base\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Cast\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Drive\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Fitness\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Games\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Gcm\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Identity\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Location\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Maps\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Nearby\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Panorama\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Plus\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.SafetyNet\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Vision\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Wallet\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+    <AdditionalJavaLibraryReference>C:\Users\Juan Jose Ponce\AppData\Local\Xamarin\Xamarin.GooglePlayServices.Wearable\26.0.0\embedded\classes.jar</AdditionalJavaLibraryReference>
+  </AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences />
+</Paths>

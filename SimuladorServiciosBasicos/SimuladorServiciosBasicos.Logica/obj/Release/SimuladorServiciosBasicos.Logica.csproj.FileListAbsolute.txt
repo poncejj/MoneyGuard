@@ -1,0 +1,11 @@
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\bin\Release\SimuladorServiciosBasicos.Logica.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\bin\Release\SimuladorServiciosBasicos.Logica.pdb
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\bin\Release\Newtonsoft.Json.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\bin\Release\SimuladorServiciosBasicos.CapaPersistencia.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\bin\Release\SimuladorServiciosBasicos.ModeloDatos.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\bin\Release\SimuladorServiciosBasicos.CapaPersistencia.pdb
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\bin\Release\SimuladorServiciosBasicos.ModeloDatos.pdb
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\bin\Release\Newtonsoft.Json.xml
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\obj\Release\SimuladorServiciosBasicos.Logica.csprojResolveAssemblyReference.cache
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\obj\Release\SimuladorServiciosBasicos.Logica.dll
+C:\@TFS\Tesis\SimuladorServiciosBasicos\SimuladorServiciosBasicos.Logica\obj\Release\SimuladorServiciosBasicos.Logica.pdb
